@@ -1,0 +1,2 @@
+#!/bin/bash
+booc -o:sudoku.dll -t:library sudoku.boo -r:nunit.framework.dll
