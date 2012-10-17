@@ -1,0 +1,6 @@
+source 'http://rubygems.org'
+
+gem "guard-jasmine-headless-webkit"
+gem "jasmine-headless-webkit" 
+gem "libnotify"
+gem "rb-inotify"
