@@ -1,0 +1,5 @@
+Com ruby 1.9.2, rode bundle install.
+Para rodar os testes continuamente, rode: 
+$ guard
+Para rodar uma vez só, rode:
+$ jasmine-headless-webkit
